@@ -56,8 +56,13 @@ Example: 20 qubits GHZ state
 * Standard circuit
 ![image](standard_ghz.png)
 
+
 * Low depth circuit
 ![image](low_depth_ghz.png)
+
+
+* Scaling comparision
+![image](comparision.png)
 
 ## References
 
