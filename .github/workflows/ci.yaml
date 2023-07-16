@@ -2,10 +2,10 @@ name: ghz_state_qc_with_low_depth
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 
 jobs: 
@@ -16,7 +16,7 @@ jobs:
     
     strategy: 
       matrix:
-        python-version: [3.7,3.8,3.9]
+        python-version: [3.9]
     
     steps:
       
