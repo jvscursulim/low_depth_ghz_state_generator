@@ -49,6 +49,16 @@ qc = create_ghz_state_quantum_circuit(num_qubits=num_qubits, add_measurements=Tr
 counts = backend.run(qc, shots=shots).result().get_counts()
 ```
 
+## Figures
+
+Example: 20 qubits GHZ state
+
+* Standard circuit
+![image](standard_ghz.png)
+
+* Low depth circuit
+![image](low_depth_ghz.png)
+
 ## References
 
 1. [Greenberger-Horne-Zeilinger state](https://en.wikipedia.org/wiki/Greenberger%E2%80%93Horne%E2%80%93Zeilinger_state)
