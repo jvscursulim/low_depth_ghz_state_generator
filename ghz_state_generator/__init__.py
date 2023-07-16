@@ -1,1 +1,1 @@
-from .ghz_state_preparator import create_ghz_state_quantum_circuit
+from .ghz_state_generator import create_ghz_state_quantum_circuit
