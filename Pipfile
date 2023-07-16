@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+qiskit = "*"
+jupyter = "*"
+pylatexenc = "*"
+matplotlib = "*"
+pytest = "*"
+black = "*"
+nox = "*"
+codecov = "*"
+pytest-cov = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
