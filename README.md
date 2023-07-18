@@ -16,7 +16,7 @@ A repository about GHZ state preparation with low depth quantum circuits. In the
 
 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/jvscursulim/low_depth_ghz_state_generator.git
 ```
 2. Create a virtual environment
 ```bash
