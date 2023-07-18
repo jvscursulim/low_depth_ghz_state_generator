@@ -61,8 +61,8 @@ Example: 20 qubits GHZ state
 ![image](low_depth_ghz.png)
 
 
-* Scaling comparision
-![image](comparision.png)
+* Scaling comparison
+![image](comparison.png)
 
 ## References
 
